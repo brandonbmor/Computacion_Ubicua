@@ -1,3 +1,5 @@
+# LABORATORIO 0
+https://www.tinkercad.com/things/0mWduRlI08d-laboratorio-0/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=XKWPgvGcGzUsdkJfAAbsMaVTkVXF-OXw88s8OI4Up0E
 # LABORATORIO 1
 https://www.tinkercad.com/things/0BoVutY508q/editel?returnTo=%2Fdashboard%2Fdesigns%2Fci rcuits&sharecode=DlGBZiZkTXdcnxq_NBucwrpA-SGX1xpIE1CQtITUHyM
 # LABORATORIO 2
