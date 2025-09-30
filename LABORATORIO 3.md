@@ -1,4 +1,4 @@
-# LABORATORIO 2 #
+# LABORATORIO 3 #
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/374dbf5f-321c-4212-bcad-996ac14c6b1a" />
 
 
