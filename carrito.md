@@ -1,7 +1,12 @@
 # PROYECTO CARRITO #
 
+https://github.com/user-attachments/assets/b3ab91e1-cfb5-47d7-a294-688a64683bc9
+
+
+
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/3254c242-02dc-435d-8f9c-3150110406f0" />
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/f70b3a7f-e1c9-4dbb-b55d-21386954769f" />
+
 
 
 ```
